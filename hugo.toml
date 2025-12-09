@@ -24,8 +24,3 @@ enableEmoji = true
     style = 'monokailight'
     tabWidth = 8
 
-[[menu.after]]
-    name = "📖 Charla"
-    url = "/slides/"
-    weight = 5
-
