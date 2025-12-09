@@ -34,7 +34,7 @@ style: |
 ---
 <!-- _class: lead -->
 
-<img src="images/logo_cefitev.png"
+<img src="../images/logo_cefitev.png"
      style="
       position: absolute;
       top: 10px;
@@ -44,7 +44,7 @@ style: |
       z-index: 2;
      ">
 
-<img src="images/logo_uv.png"
+<img src="../images/logo_uv.png"
      style="
       position: absolute;
       top: 10px;
@@ -108,7 +108,7 @@ $$
 <!-- - **Cosmología computacional:** Permite estudiar la evolución del universo y poner a prueba distintas teorías de la gravitación. -->
 <!---->
 <!-- --- -->
-<img src="images/Black_hole.webp"
+<img src="../images/Black_hole.webp"
      style="
        position: absolute;
        top: 0;
@@ -144,7 +144,7 @@ $$
 ---
 
 <div style="text-align: center;">
-  <img src="images/Nobel_Prize_GW_2017.jpg" width="200px">
+  <img src="../images/Nobel_Prize_GW_2017.jpg" width="200px">
 </div>
 
 ---
@@ -159,9 +159,8 @@ $$
 
 ---
 
-<!-- ![GW signal](images/LIGO_measurement_of_gravitational_waves.svg) -->
 <div style="text-align: center;">
-  <img src="images/LIGO_measurement_of_gravitational_waves.svg" style="width:780px;">
+  <img src="../images/LIGO_measurement_of_gravitational_waves.svg" style="width:780px;">
 </div>
 
 ---
@@ -215,10 +214,10 @@ $$
 <!-- <br> -->
 
 <!-- <div style="text-align: center;"> -->
-  <!-- <img src="images/Sun-Earth-Moon-Space-Time.jpg" style="width:600px;"> -->
+  <!-- <img src="../images/Sun-Earth-Moon-Space-Time.jpg" style="width:600px;"> -->
 <!-- </div> -->
 <!-- Background image -->
-<img src="images/Sun-Earth-Moon-Space-Time.jpg"
+<img src="../images/Sun-Earth-Moon-Space-Time.jpg"
      style="
        position: absolute;
        top: 0; left: 0;
@@ -256,7 +255,7 @@ $$
 $$
 
 <!-- </div> -->
-<!-- <img src="images/Sun-Earth-Moon-Space-Time.jpg" -->
+<!-- <img src="../images/Sun-Earth-Moon-Space-Time.jpg" -->
 <!--      style=" -->
 <!--        position: absolute; -->
 <!--        top: 0; -->
@@ -338,7 +337,7 @@ Si caminamos de forma paralela, ¿qué observamos?
 <br>
 
 <div style="text-align:center;">
-  <img src="images/curved_surfaces.jpg" style="width:800px;">
+  <img src="../images/curved_surfaces.jpg" style="width:800px;">
 </div>
 
 <!-- --- -->
@@ -366,7 +365,7 @@ Si caminamos de forma paralela, ¿qué observamos?
 <!-- Si medimos $S$, verificaríamos que el perímetro es $2\pi S$? -->
 <!---->
 <!-- <div style="text-align: center;"> -->
-<!--   <img src="images/sphere_curvature.png" width="200px"> -->
+<!--   <img src="../images/sphere_curvature.png" width="200px"> -->
 <!-- </div> -->
 
 <!-- --- -->
@@ -612,7 +611,7 @@ Necesitamos separar **espacio + tiempo**.
 <br>
 
 <div style="text-align:center;">
-  <img src="images/adm_bulk.png" style="width:500px;">
+  <img src="../images/adm_bulk.png" style="width:500px;">
 </div>
 
 ---
@@ -622,7 +621,7 @@ Necesitamos separar **espacio + tiempo**.
 <br>
 
 <div style="text-align:center;">
-  <img src="images/adm_decomposition.png" style="width:800px;">
+  <img src="../images/adm_decomposition.png" style="width:800px;">
 </div>
 
 ---
@@ -676,7 +675,7 @@ $$
 
 <br>
 <div style="text-align:center;">
-  <img src="images/extrinsic_curvature.png" style="width:700px;">
+  <img src="../images/extrinsic_curvature.png" style="width:700px;">
 </div>
 
 
@@ -808,7 +807,7 @@ Métodos numéricos usuales:
 <br>
 
 <div style="text-align:center;">
-  <img src="images/exagrype_bhs.png" style="width:900px;">
+  <img src="../images/exagrype_bhs.png" style="width:900px;">
 </div>
 
 
@@ -823,7 +822,7 @@ Métodos numéricos usuales:
 
 ---
 
-<img src="images/logo_cefitev.png"
+<img src="../images/logo_cefitev.png"
      style="
       position: absolute;
       top: 10px;
@@ -833,7 +832,7 @@ Métodos numéricos usuales:
       z-index: 2;
      ">
 
-<img src="images/logo_uv.png"
+<img src="../images/logo_uv.png"
      style="
       position: absolute;
       top: 10px;
@@ -843,7 +842,7 @@ Métodos numéricos usuales:
       z-index: 2;
      ">
 
-<img src="images/exagrype_bhs.png"
+<img src="../images/exagrype_bhs.png"
      style="
        position: absolute;
        top: 0;
@@ -862,6 +861,6 @@ Métodos numéricos usuales:
 </p>
 
 <!-- <div style="text-align:center;"> -->
-<!--   <img src="images/exagrype_bhs.png" style="width:1000px;"> -->
+<!--   <img src="../images/exagrype_bhs.png" style="width:1000px;"> -->
 <!-- </div> -->
 
