@@ -32,3 +32,37 @@ The published online version is available at:
 git clone --recurse-submodules https://github.com/crisbh/foundations-numerical-relativity-talk.git
 cd foundations-numerical-relativity-talk
 ```
+
+### 2. Install Marp (if not already installed)
+
+```bash
+npm install -g @marp-team/marp-cli
+```
+
+### 3. Build slides
+
+```bash
+make slides
+```
+
+This generates static/slides/*.html and builds the full Hugo site into public/.
+
+### 4. Build site + preview locally
+
+```bash
+make site
+```
+
+The site will be served at:
+
+```bash
+http://localhost:1313/foundations-numerical-relativity-talk/
+```
+
+---
+
+## 📦 Requirements
+	•	Hugo (extended version recommended)
+	•	Node.js + @marp-team/marp-cli
+	•	Git with submodule support
+	•	Bash + Make
