@@ -24,7 +24,7 @@ The published online version is available at:
 
 ---
 
-## 🛠️ Build Instructions (Reproducible Workflow)
+## 🛠️ Build Instructions
 
 ### 1. Clone the repository (with theme submodule)
 
