@@ -45,7 +45,7 @@ npm install -g @marp-team/marp-cli
 make slides
 ```
 
-This generates static/slides/*.html and builds the full Hugo site into public/.
+This generates `static/slides/*.html`.
 
 ### 4. Build site + preview locally
 
@@ -53,7 +53,7 @@ This generates static/slides/*.html and builds the full Hugo site into public/.
 make site
 ```
 
-The site will be served at:
+This builds the full Hugo site into `public/`. The site will be served at:
 
 ```bash
 http://localhost:1313/foundations-numerical-relativity-talk/
